@@ -17,6 +17,7 @@ nginx_gzip_comp_level: 6
 nginx_sendfile: true
 nginx_keepalive_timeout: 7
 nginx_access_log_format: combined
+nginx_sites: []
 nginx_sites_path: /var/www
 
 # Ancillary
